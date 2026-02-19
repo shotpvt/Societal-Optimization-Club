@@ -1,1 +1,1 @@
-# Societal-Optimization-Club
+# Societal-Optimization-Lab
